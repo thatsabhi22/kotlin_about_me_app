@@ -1,1 +1,1 @@
-# kotlin_about_me_app
+# About Me App (Kotlin)
